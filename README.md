@@ -1,1 +1,1 @@
-# wed-todo-app# web-todo-app
+# wed-todo-app
